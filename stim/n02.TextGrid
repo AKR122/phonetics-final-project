@@ -1,0 +1,129 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.92734693877551 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Word" 
+        xmin = 0 
+        xmax = 16.92734693877551 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6070919858317916 
+            text = "" 
+        intervals [2]:
+            xmin = 1.6070919858317916 
+            xmax = 1.9770759132247133 
+            text = "perro" 
+        intervals [3]:
+            xmin = 1.9770759132247133 
+            xmax = 4.629224314768936 
+            text = "" 
+        intervals [4]:
+            xmin = 4.629224314768936 
+            xmax = 4.915895110610253 
+            text = "gorra" 
+        intervals [5]:
+            xmin = 4.915895110610253 
+            xmax = 7.687421394592911 
+            text = "" 
+        intervals [6]:
+            xmin = 7.687421394592911 
+            xmax = 8.052301727486084 
+            text = "arroz" 
+        intervals [7]:
+            xmin = 8.052301727486084 
+            xmax = 10.907132562065433 
+            text = "" 
+        intervals [8]:
+            xmin = 10.907132562065433 
+            xmax = 11.419537006352035 
+            text = "correcto" 
+        intervals [9]:
+            xmin = 11.419537006352035 
+            xmax = 14.33694250472341 
+            text = "" 
+        intervals [10]:
+            xmin = 14.33694250472341 
+            xmax = 14.77677632478188 
+            text = "burrito" 
+        intervals [11]:
+            xmin = 14.77677632478188 
+            xmax = 16.92734693877551 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Trill" 
+        xmin = 0 
+        xmax = 16.92734693877551 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7245112786294186 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7245112786294186 
+            xmax = 1.828015449133188 
+            text = "3perro" 
+        intervals [3]:
+            xmin = 1.828015449133188 
+            xmax = 4.743892633105463 
+            text = "" 
+        intervals [4]:
+            xmin = 4.743892633105463 
+            xmax = 4.819405915912443 
+            text = "2gorra" 
+        intervals [5]:
+            xmin = 4.819405915912443 
+            xmax = 7.739186424518932 
+            text = "" 
+        intervals [6]:
+            xmin = 7.739186424518932 
+            xmax = 7.807364756616618 
+            text = "2arroz" 
+        intervals [7]:
+            xmin = 7.807364756616618 
+            xmax = 10.960035675782338 
+            text = "" 
+        intervals [8]:
+            xmin = 10.960035675782338 
+            xmax = 11.046192175264157 
+            text = "2correcto" 
+        intervals [9]:
+            xmin = 11.046192175264157 
+            xmax = 14.403360363457072 
+            text = "" 
+        intervals [10]:
+            xmin = 14.403360363457072 
+            xmax = 14.48453774635377 
+            text = "1burrito" 
+        intervals [11]:
+            xmin = 14.48453774635377 
+            xmax = 16.92734693877551 
+            text = "" 
+    item [3]:
+        class = "TextTier" 
+        name = "Midpoint" 
+        xmin = 0 
+        xmax = 16.92734693877551 
+        points: size = 5 
+        points [1]:
+            number = 1.7759952183618635 
+            mark = "" 
+        points [2]:
+            number = 4.780250880382898 
+            mark = "" 
+        points [3]:
+            number = 7.772013028862262 
+            mark = "" 
+        points [4]:
+            number = 11.003869684290631 
+            mark = "" 
+        points [5]:
+            number = 14.442740053152088 
+            mark = "" 
